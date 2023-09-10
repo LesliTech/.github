@@ -5,4 +5,4 @@ https://www.lesli.tech
 
 <hr/>
 
-Built with :blue_heart: by **Lesli development team** in [Guatemala](https://visitguatemala.com) :guatemala:
+Bulding a better future, one line of code at the time | [Guatemala](https://visitguatemala.com) :guatemala:
