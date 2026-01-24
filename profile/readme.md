@@ -1,8 +1,10 @@
+## Hi there 👋 Welcome to LesliTech
 
-## Hi there, welcome to Lesli 👋
-
-https://www.lesli.tech
+🌐 https://www.lesli.tech 
 
 ---
 
-Bulding a better future, one line of code at the time | [Guatemala](https://visitguatemala.com) :guatemala:
+We’re building open-source tools and platforms to make software development easier and more sustainable.
+
+Building a better future, one line of code at a time.  
+Proudly built in [Guatemala](https://visitguatemala.com) 🇬🇹
