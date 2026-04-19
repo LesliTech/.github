@@ -26,26 +26,3 @@ We're building open-source tools and platforms to make software development easi
 Building a better future, one line of code at a time. <br />
 Proudly built in <a href="https://visitguatemala.com">Guatemala</a> 🇬🇹
 </p>
-
-<br />
-<br />
-
-<h4 align="center">
-  <a href="https://datenbanken.dev/" target="_blank">
-    <picture>
-      <img src="https://www.lesli.tech/images/projects/datenbanken-logo-609989cc.png" alt="" height="45" />
-    </picture>
-  </a>
-  <img alt="" src="" width="20" />
-  <a href="https://www.lesli.dev/" target="_blank">
-    <picture>
-      <img src="https://www.lesli.tech/images/projects/lesli-icon-5157fb00.svg" alt="" height="45" />
-    </picture>
-  </a>
-  <img alt="" src="" width="20" />
-  <a href="https://www.raven.gt/" target="_blank">
-    <picture>
-      <img src="https://www.lesli.tech/images/projects/projectraven-logo-abf497b2.png" alt="" height="45" />
-    </picture>
-  </a>
-</h4>
